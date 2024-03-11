@@ -90,3 +90,34 @@ header{
     border: 1px solid #9C9C9C;
     color: #9C9C9C;
 }
+.section-case{
+    text-align: center;
+    
+}
+.section-title{
+    font-size: 30px;
+    color: #000000;
+}
+.text-case{
+    font-size: 18px;
+     margin-left: 350px;
+     margin-right: 350px;
+     color: #9C9C9C;
+}
+.info-work{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 80px;
+   
+}
+.data-work{
+ 
+}
+.text-work{
+    padding-right: 200px;
+    font-size: 15px;
+}
+.imagen-work img{
+    width: 400px;
+}
