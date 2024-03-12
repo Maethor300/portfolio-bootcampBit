@@ -30,7 +30,7 @@ header{
     margin-top: 35px;
 }
 .boton-presentacion{
-    padding: 30px 90px;
+  padding: 30px 90px;
   background-color: #3F8E00;
   color: white;
   border: none;
@@ -109,15 +109,17 @@ header{
     margin: 0 auto;
     display: flex;
     margin-top: 80px;
-   
+    justify-content: center;
 }
 .data-work{
- 
+     height: 20px;
+     
 }
 .text-work{
-    padding-right: 200px;
+    
     font-size: 15px;
 }
 .imagen-work img{
     width: 400px;
+    
 }
